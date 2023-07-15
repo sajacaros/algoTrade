@@ -1,0 +1,22 @@
+=======
+15/07/2023 08:35:43
+100epochs_64batch_cnn
+TN: 4
+FN: 9
+TP: 11
+FP: 8
+TPR: 0.55
+FPR: 0.6666666666666666
+accuracy: 0.469
+specitivity: 0.333
+sensitivity : 0.55
+mcc : -0.115
+              precision    recall  f1-score   support
+
+           0       0.31      0.33      0.32        12
+           1       0.58      0.55      0.56        20
+
+    accuracy                           0.47        32
+   macro avg       0.44      0.44      0.44        32
+weighted avg       0.48      0.47      0.47        32
+=======
